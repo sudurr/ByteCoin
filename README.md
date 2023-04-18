@@ -10,5 +10,6 @@
 
 * UIKit
 * MVC
+
 * Использованы URLSession для создания запроса HTTP requests
 * Парсинг с помощью JSON с Encodable и Decodable протоколами
